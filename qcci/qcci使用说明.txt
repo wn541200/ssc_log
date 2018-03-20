@@ -1,0 +1,1 @@
+编译成qmi_test_service_test，运行qmi_test_service_test -t3
